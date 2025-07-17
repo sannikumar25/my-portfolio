@@ -31,6 +31,27 @@ const EducationSection = () => {
       description:
         "Advanced coursework in Artificial Intelligence, Full-Stack Web Development, and Data Structures & Algorithms.",
     },
+      {
+    degree: "Senior Secondary (12th Grade)",
+    school: "nitishwar singh college muzaffarpur , Bihar",
+    mascot: "📘",
+    year: "2019–2021",
+    achievements: ["Passed with First Division", "PCM (Science) Stream"],
+    skills: ["Mathematics", "Physics", "Chemistry"],
+    description:
+      "Focused on foundational science subjects and problem-solving techniques with an emphasis on engineering preparation.",
+  },
+  {
+    degree: "Secondary (10th Grade)",
+    school: "R.K. High School, paroo muzaffarpur",
+    mascot: "📗",
+    year: "2018–2019",
+    achievements: ["Passed with First Division"],
+    skills: ["Mathematics", "Science", "English", "Social Science"],
+    description:
+      "Gained strong foundational knowledge across subjects with early exposure to logical and analytical thinking.",
+  },
+    
   ];
 
   const containerVariants = {

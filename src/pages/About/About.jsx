@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.jpg";
+import HeroImg from "@/assets/images/hero.png";
 import EduLinker from "@/assets/images/edulinker.png"; // You can replace this with your own logo
 
 export default function About() {

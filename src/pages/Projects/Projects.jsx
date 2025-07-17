@@ -5,6 +5,8 @@ import PropTypes from "prop-types";
 import edulinker from "@/assets/images/edulinker.png"
 import  Calculator  from "@/assets/images/basic-calculator.png";
 import tictactoe from "@/assets/images/tic-tac-toe.png"
+import weatherapp from "@/assets/images/weatherApp.png"
+import randomimg from "@/assets/images/random_image_generator.png"
 
 const projects = [
   {
@@ -32,7 +34,7 @@ const projects = [
     description:
       "A responsive weather forecast app fetching real-time data using Weather API. Glassmorphic design with animated icons.",
     src: "https://i.postimg.cc/hjyytkZD/weather-app.png",
-    link: "https://i.postimg.cc/hjyytkZD/weather-app.png",
+    link: weatherapp,
     color: "#00aaff",
     githubLink: "https://github.com/sannikumar25/Weather-App",
     liveLink: "https://sannikumar25.github.io/Weather-App/",
@@ -42,7 +44,7 @@ const projects = [
     description:
       "Generates a random image of a dog using an API. Click button to fetch a new image every time.",
     src: "https://i.postimg.cc/8Pz6S1Kp/random-image-generator.png",
-    link: "https://i.postimg.cc/8Pz6S1Kp/random-image-generator.png",
+    link: randomimg,
     color: "#ff9966",
     githubLink: "https://github.com/sannikumar25/Random-Image-Generator",
     liveLink: "https://sannikumar25.github.io/Random-Image-Generator/",
